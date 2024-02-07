@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\patri\\OneDrive\\Documents\\Github\\PizzaPages\\02_DataInteraction\\02_DataInteraction\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\02_DataInteraction.bundle.scp.css",
+      "PackagePath": "staticwebassets\\02_DataInteraction.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\patri\\OneDrive\\Documents\\Github\\PizzaPages\\02_DataInteraction\\02_DataInteraction\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\patri\\OneDrive\\Documents\\Github\\PizzaPages\\02_DataInteraction\\02_DataInteraction\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\patri\\OneDrive\\Documents\\Github\\PizzaPages\\02_DataInteraction\\02_DataInteraction\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patri\\OneDrive\\Documents\\Github\\PizzaPages\\02_DataInteraction\\02_DataInteraction\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.02_DataInteraction.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.02_DataInteraction.props",
+      "PackagePath": "build\\02_DataInteraction.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.02_DataInteraction.props",
+      "PackagePath": "buildMultiTargeting\\02_DataInteraction.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.02_DataInteraction.props",
+      "PackagePath": "buildTransitive\\02_DataInteraction.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
