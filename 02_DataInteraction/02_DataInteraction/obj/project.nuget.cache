@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cmf+8csnS3Y6VABVvyVhrkuNxoRBW/++kzdA8gbRDBy1c+VDjZAHVR13C2tkVIPtZru95JXP0GD1UGC2oP0d2Q==",
+  "dgSpecHash": "3QbINKolBFwCcBOeDNuYK+yJtvu5cWuhqu7JhZQnXwADYkKWQMP0lUBB6TXZj9K+M+gYCmuA00ER5eRYpbftFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\patri\\OneDrive\\Documents\\Github\\PizzaPages\\02_DataInteraction\\02_DataInteraction\\02_DataInteraction.csproj",
+  "projectFilePath": "C:\\Users\\patri\\OneDrive\\Documents\\Github\\BuildBlazorApps\\02_DataInteraction\\02_DataInteraction\\02_DataInteraction.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

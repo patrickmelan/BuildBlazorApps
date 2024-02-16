@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\02_DataInteraction",
+    "\\02_DataInteraction\\02_DataInteraction",
+    "\\02_DataInteraction\\02_DataInteraction\\Components",
+    "\\02_DataInteraction\\02_DataInteraction\\Components\\Pages"
   ],
-  "SelectedNode": "\\01_FirstApp",
+  "SelectedNode": "\\02_DataInteraction\\02_DataInteraction\\Components\\Pages\\Todo.razor",
   "PreviewInSolutionExplorer": false
 }

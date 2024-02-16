@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\OneDrive\\Documents\\Github\\PizzaPages\\02_DataInteraction\\02_DataInteraction\\02_DataInteraction.csproj": {}
+    "C:\\Users\\patri\\OneDrive\\Documents\\Github\\BuildBlazorApps\\02_DataInteraction\\02_DataInteraction\\02_DataInteraction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\OneDrive\\Documents\\Github\\PizzaPages\\02_DataInteraction\\02_DataInteraction\\02_DataInteraction.csproj": {
+    "C:\\Users\\patri\\OneDrive\\Documents\\Github\\BuildBlazorApps\\02_DataInteraction\\02_DataInteraction\\02_DataInteraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\OneDrive\\Documents\\Github\\PizzaPages\\02_DataInteraction\\02_DataInteraction\\02_DataInteraction.csproj",
+        "projectUniqueName": "C:\\Users\\patri\\OneDrive\\Documents\\Github\\BuildBlazorApps\\02_DataInteraction\\02_DataInteraction\\02_DataInteraction.csproj",
         "projectName": "02_DataInteraction",
-        "projectPath": "C:\\Users\\patri\\OneDrive\\Documents\\Github\\PizzaPages\\02_DataInteraction\\02_DataInteraction\\02_DataInteraction.csproj",
+        "projectPath": "C:\\Users\\patri\\OneDrive\\Documents\\Github\\BuildBlazorApps\\02_DataInteraction\\02_DataInteraction\\02_DataInteraction.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\OneDrive\\Documents\\Github\\PizzaPages\\02_DataInteraction\\02_DataInteraction\\obj\\",
+        "outputPath": "C:\\Users\\patri\\OneDrive\\Documents\\Github\\BuildBlazorApps\\02_DataInteraction\\02_DataInteraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
